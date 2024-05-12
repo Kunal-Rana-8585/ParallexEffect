@@ -1,1 +1,3 @@
 # ParallexEffect
+
+This project features a captivating website design incorporating the popular parallax scrolling effect. Developed as part of my exploration into frontend web development, the website utilizes HTML, CSS, and JavaScript to create a visually immersive user experience. The parallax effect adds depth and dynamism to the site, enhancing engagement and leaving a lasting impression on visitors. With its seamless scrolling and modern design, this project showcases my skills in crafting interactive and engaging web interfaces. Whether you're a user exploring the site or a developer seeking inspiration, this project demonstrates the creative possibilities of web design with parallax effects.
